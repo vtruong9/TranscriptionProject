@@ -1,0 +1,4 @@
+210 genes:
+11 genes upregulated
+90 genes downregulated
+109 genes inconclusived.
